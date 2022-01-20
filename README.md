@@ -3,12 +3,12 @@
 
 # Network Architecture
    <div align=center>
-   <img src="https://github.com/MathLee/CorrNet/blob/main/images/CorrNet.png">
+   <img src="https://github.com/MathLee/CorrNet/blob/main/image/CorrNet.png">
    </div>
    
 # Accuracy v.s. Parameters
    <div align=center>
-   <img src=https://github.com/MathLee/CorrNet/blob/main/images/accuracyVSparams.png width=52% />
+   <img src=https://github.com/MathLee/CorrNet/blob/main/image/accuracyVSparams.png width=52% />
    </div> 
    
    
@@ -23,7 +23,7 @@
    
    In addition, we also provide [saliency maps of our MCCNet](https://pan.baidu.com/s/1dz-GeELIqMdzKlPvzETixA) (code: 413m) on the recently published [ORSI-4199](https://github.com/wchao1213/ORSI-SOD) dataset.
    
-   ![Image](https://github.com/MathLee/CorrNet/blob/main/images/table.png)
+   ![Image](https://github.com/MathLee/CorrNet/blob/main/image/table.png)
    
 # Training
 
