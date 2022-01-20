@@ -1,5 +1,5 @@
 # CorrNet
-[TGRS2022] [CorrNet] Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation
+This project provides the code and results for 'Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation', IEEE TGRS, accepted, 2022.
 
 # Network Architecture
    <div align=center>
