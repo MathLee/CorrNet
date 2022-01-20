@@ -47,11 +47,11 @@ Download the following pre-trained model, and modify pathes of pre-trained model
 # [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
    
 # Citation
-        @ARTICLE{Li_2021_MCCNet,
+        @ARTICLE{Li_2022_CorrNet,
                 author = {Gongyang Li and Zhi Liu and Zhen Bai and Weisi Lin and Haibin Ling},
                 title = {Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation},
                 journal = {IEEE Transactions on Geoscience and Remote Sensing},
-                year = {2021},
+                year = {2022},
                 }
                 
                 
