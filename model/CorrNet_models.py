@@ -131,16 +131,12 @@ class CorrelationModule(nn.Module):
         exemplar_mask = self.gate_s(exemplar_mask)
         exemplar_att = exemplar_att * exemplar_mask
         exemplar_out = self.conv1(exemplar_att + exemplar)
-        # pred1: low resolution
-        # pred1 = self.pred1(exemplar_out)
 
         query_att = query_att.view(-1, self.channel, fea_size[0], fea_size[1])
         query_mask = self.gate_2(query_att)
         query_mask = self.gate_s(query_mask)
         query_att = query_att * query_mask
         query_out = self.conv1(query_att + query)
-        # pred2: high resolution
-        # pred2 = self.pred2(query_out)
 
         pred = self.pred(self.conv_fusion(torch.cat([exemplar_out,query_out],1)))
         return pred
