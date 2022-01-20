@@ -3,12 +3,12 @@
 
 # Network Architecture
    <div align=center>
-   <img src="https://github.com/MathLee/MCCNet/blob/main/images/MCCNet.png">
+   <img src="https://github.com/MathLee/CorrNet/blob/main/images/CorrNet.png">
    </div>
    
-# Multi-Content Complementation Module (MCCM)
+# Accuracy v.s. Parameters
    <div align=center>
-   <img src=https://github.com/MathLee/MCCNet/blob/main/images/MCCM.png width=52% />
+   <img src=https://github.com/MathLee/CorrNet/blob/main/images/accuracyVSparams.png width=52% />
    </div> 
    
    
@@ -23,7 +23,7 @@
    
    In addition, we also provide [saliency maps of our MCCNet](https://pan.baidu.com/s/1dz-GeELIqMdzKlPvzETixA) (code: 413m) on the recently published [ORSI-4199](https://github.com/wchao1213/ORSI-SOD) dataset.
    
-   ![Image](https://github.com/MathLee/MCCNet/blob/main/images/table.png)
+   ![Image](https://github.com/MathLee/CorrNet/blob/main/images/table.png)
    
 # Training
 
@@ -50,11 +50,10 @@ Download the following pre-trained model, and modify pathes of pre-trained model
    
 # Citation
         @ARTICLE{Li_2021_MCCNet,
-                author = {Gongyang Li and Zhi Liu and Weisi Lin and Haibin Ling},
-                title = {Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images},
+                author = {Gongyang Li and Zhi Liu and Zhen Bai and Weisi Lin and Haibin Ling},
+                title = {Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation},
                 journal = {IEEE Transactions on Geoscience and Remote Sensing},
                 year = {2021},
-                url={10.1109/TGRS.2021.3131221},
                 }
                 
                 
