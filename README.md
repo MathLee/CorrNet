@@ -33,6 +33,8 @@ Modify pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw)
 # Pre-trained model and testing
 Download the following pre-trained model, and modify pathes of pre-trained model and datasets, then run test_CorrNet.py.
 
+We also uploaded these pre-trained models in /models.
+
 [ORSSD](https://pan.baidu.com/s/1rmBvxXjDh8KRL98CoFUl0g) (code: vqi7)
 
 [EORSSD](https://pan.baidu.com/s/1FVF9x8f-PvVVgeDSAvJcbA) (code: q5mr)
