@@ -19,7 +19,7 @@ This project provides the code and results for 'Lightweight Salient Object Detec
 
 
 # Saliency maps
-   We provide saliency maps of [all compared methods](https://pan.baidu.com/s/1JoLznx_AvAHvCA7BU9hqfQ) (code: kftm) and [our CorrNet](https://pan.baidu.com/s/1rLaFSywXmZ7LuI_1o1poBg) (code: fbee) on ORSSD and EORSSD datasets.
+   We provide saliency maps and [measure results (.mat)](https://pan.baidu.com/s/19dG5CghVZ31NSw49bd63Dw) (code: m1dm) of [all compared methods](https://pan.baidu.com/s/1JoLznx_AvAHvCA7BU9hqfQ) (code: kftm) and [our CorrNet](https://pan.baidu.com/s/1rLaFSywXmZ7LuI_1o1poBg) (code: fbee) on ORSSD and EORSSD datasets.
    
    In addition, we also provide [saliency maps of our CorrNet](https://pan.baidu.com/s/1ScH4u1EX-98J7dGC0nQLoA) (code: lm21) on the recently published [ORSI-4199](https://github.com/wchao1213/ORSI-SOD) dataset.
    
@@ -43,7 +43,7 @@ We also uploaded these pre-trained models in /models.
 
    
 # Evaluation Tool
-   You can use the [evaluation tool (MATLAB version)](http://dpfan.net/d3netbenchmark/) to evaluate the above saliency maps or directly use [our measure results](https://pan.baidu.com/s/19dG5CghVZ31NSw49bd63Dw) (code: m1dm).
+   You can use the [evaluation tool (MATLAB version)](http://dpfan.net/d3netbenchmark/) to evaluate the above saliency maps.
 
 
 # [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
