@@ -43,7 +43,7 @@ We also uploaded these pre-trained models in /models.
 
    
 # Evaluation Tool
-   You can use the [evaluation tool (MATLAB version)](http://dpfan.net/d3netbenchmark/) to evaluate the above saliency maps.
+   You can use the [evaluation tool (MATLAB version)](http://dpfan.net/d3netbenchmark/) to evaluate the above saliency maps or directly use [our measure results](https://pan.baidu.com/s/19dG5CghVZ31NSw49bd63Dw) (code: m1dm).
 
 
 # [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
