@@ -1,5 +1,5 @@
 # CorrNet
-This project provides the code and results for 'Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation', IEEE TGRS, accepted, 2022. [IEEE link](https://ieeexplore.ieee.org/document/9690514) and [arxiv link](https://arxiv.org/abs/2201.08049)
+This project provides the code and results for 'Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation', IEEE TGRS, vol. 60, pp. 1-12, 2022. [IEEE link](https://ieeexplore.ieee.org/document/9690514) and [arxiv link](https://arxiv.org/abs/2201.08049)
 
 # Network Architecture
    <div align=center>
@@ -53,8 +53,9 @@ We also uploaded these pre-trained models in /models.
                 author = {Gongyang Li and Zhi Liu and Zhen Bai and Weisi Lin and Haibin Ling},
                 title = {Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation},
                 journal = {IEEE Transactions on Geoscience and Remote Sensing},
+                volume = {60},
+                pages = {1-12},
                 year = {2022},
-                doi = {10.1109/TGRS.2022.3145483},
                 }
                 
                 
