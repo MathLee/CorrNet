@@ -27,11 +27,11 @@ This project provides the code and results for 'Lightweight Salient Object Detec
    
 # Training
 
-Modify pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) in /model/vgg.py and datasets, then run train_CorrNet.py.
+Modify paths of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) in /model/vgg.py and datasets, then run train_CorrNet.py.
 
 
 # Pre-trained model and testing
-Download the following pre-trained model, and modify pathes of pre-trained model and datasets, then run test_CorrNet.py.
+Download the following pre-trained model, and modify paths of pre-trained model and datasets, then run test_CorrNet.py.
 
 We also uploaded these pre-trained models in /models.
 
