@@ -19,9 +19,9 @@ This project provides the code and results for 'Lightweight Salient Object Detec
 
 
 # Saliency maps
-   We provide saliency maps and [measure results (.mat)](https://pan.baidu.com/s/19dG5CghVZ31NSw49bd63Dw) (code: m1dm) of [all compared methods](https://pan.baidu.com/s/1JoLznx_AvAHvCA7BU9hqfQ) (code: kftm) and [our CorrNet](https://pan.baidu.com/s/1rLaFSywXmZ7LuI_1o1poBg) (code: fbee) on ORSSD and EORSSD datasets.
+   We provide saliency maps and [measure results (.mat)](https://pan.baidu.com/s/19dG5CghVZ31NSw49bd63Dw) (code: m1dm) of [all compared methods](https://pan.baidu.com/s/1JoLznx_AvAHvCA7BU9hqfQ) (code: kftm) and [our CorrNet](https://pan.baidu.com/s/1rLaFSywXmZ7LuI_1o1poBg) (code: fbee) (or under './saliencymap/') on ORSSD and EORSSD datasets.
    
-   In addition, we also provide [saliency maps of our CorrNet](https://pan.baidu.com/s/1ScH4u1EX-98J7dGC0nQLoA) (code: lm21) on the recently published [ORSI-4199](https://github.com/wchao1213/ORSI-SOD) dataset.
+   In addition, we also provide saliency maps of our CorrNet on the recently published [ORSI-4199](https://github.com/wchao1213/ORSI-SOD) dataset under './saliencymap/'.
    
    ![Image](https://github.com/MathLee/CorrNet/blob/main/image/table.png)
    
